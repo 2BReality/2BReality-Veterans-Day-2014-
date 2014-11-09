@@ -1,72 +1,29 @@
-2BorNot2B
-=========
+Welcome to 2BReality Veterans Day 2014!
 
-2B2, 2BN2B,
-<!DOCTYPE html>
+[Operation Enduring Freedom-Afghanistan War](http://youtu.be/9mHQkVHZjfc)
+# 2BReality 1 
+[Never Ending War in Afghanistan](http://youtu.be/_lfCbF2hDkI)
+## 2BReality 2 
+[Good Morning, Afghanistan](http://youtu.be/fMstzQQIgJw)
+### 2BReality 3 
+[Full Documentary: US Marines Attack On Taliban](http://youtu.be/1hOlFBOJ6IA)
+#### 2BReality 4 
+[My War 1/4 Danish Afghanistan](http://youtu.be/b8Z74G5dHqY)
+##### 2BReality 5 
+[Restrepo - Afghanistan War](http://youtu.be/rj_1W_968VQ)
 
-.markdown-body h1 { font-size: 2.5em; border-bottom: 1px solid #ddd; } .markdown-body h1, .markdown-body h2, .markdown-body h3, .markdown-body h4, .markdown-body h5, .markdown-body h6 { margin: 1em 0 15px; padding: 0; font-weight: bold; :antialiased; cursor: text; position: relative; } h1, h2, h3, h4, h5, h6 { font-weight: bold; } .markdown-body a.anchor { display: block; padding-left: 30px; margin-left: -30px; cursor: pointer; position: absolute; top: 0; left: 0; bottom: 0; } a { color: #4183c4; text-decoration: none; } .markdown-body h1 .mini-icon-link, .markdown-body h2 .mini-icon-link, .markdown-body h3 .mini-icon-link, .markdown-body h4 .mini-icon-link, .markdown-body h5 .mini-icon-link, .markdown-body h6 .mini-icon-link { display: none; color: #000; } .mini-icon { font-size: 16px; width: 16px; height: 16px; } .mini-icon, .mega-icon { font-family: 'Octicons Regular'; font-weight: normal; font-style: normal; display: inline-block; text-decoration: inherit; line-height: 1; :antialiased; line-height: 1; text-decoration: none; } .auto-style2 { border-width: 0px; color: #FF0000; font-size: xx-large; } .auto-style4 { text-align: center; } .auto-style5 { text-align: left; } .word_break { display: inline-block; } #info #page_header .byline { font-size: 14px; line-height: 1em; color: #9da2a8!important; } .role, .tip, .byline { font-size: 12px; font-weight: 400; line-height: 15px; color: #acb1b4!important; } .auto-style21 { text-align: center; margin-left: 18px; } .newStyle1 { background-color: #FFFFFF; text-decoration: blink; } .auto-style40 { text-align: left; margin-left: 0px; } .auto-style41 { text-align: left; margin-bottom: 0px; } .gf-table .lft{text-align:left}.pf-table-cell{vertical-align:center}.lft{text-align:left}.rgt{text-align:right}.up,.chg{color:#093} .auto-style61 { font-size: x-large; } .auto-style64 { border: 1px solid #FFFFFF; padding: 1px 4px; font-size: x-large; color: #4183C4; background-color: #009900; } .mw-editsection{white-space:nowrap;padding-right:0.25em; unicode-bidi:-moz-isolate;unicode-bidi:-webkit-isolate;unicode-bidi:isolate} .th{border:1px solid #ebebeb}.f{color:#666}.tsw{width:595px}em{font-weight:bold;font-style:normal}.slp{display:block;margin-bottom:1px}.hpn{color:#777}.st{line-height:1.16}.ch{cursor:pointer}.mbt{color:#11c;float:left;font-size:13px;margin-right:5px;position:relative} .auto-style73 { font-size: xx-large; } .auto-style79 { border-style: solid; border-width: 6px; padding: 1px 4px; background-color: #808080; background-image: url('Images/Buttons/2BReality%20(2).JPG'); margin-right: 0px; } .auto-style85 { font-size: xx-large; color: #6600CC; text-align: center; } .auto-style86 { border: 6px solid #FFFFFF; font-size: xx-large; text-align: center; } .auto-style91 { border-style: solid; border-color: #FFFFFF; font-size: xx-large; padding-left: 2px; } .auto-style97 { color: #000000; } .auto-style100 { color: #FFFFFF; } .nobr{white-space:nowrap} .auto-style111 { border-style: outset; border-width: 1px; padding: 1px 4px; font-size: x-large; background-color: #FFFF00; } .auto-style114 { background-color: #FFFFFF; } .auto-style115 { color: #FF0000; text-align: center; } .vsc{display:inline-block;position:relative;width:100%} .auto-style117 { border-style: solid; border-color: #FF00FF; } .auto-style118 { border-style: solid; border-color: #808000; margin-bottom: 0px; } .auto-style119 { border-width: 0px; } .auto-style121 { background-color: #1111CC; text-align: center; margin-top: 0px; font-size: x-large; } .auto-style122 { color: #000000; text-align: left; } .auto-style123 { color: #4D0C8E; font-size: x-large; } .auto-style124 { color: #0000FF; font-size: large; } .s{color:#545454}.s{max-width:42em}cite{color:#006621;font-style:normal}.ab_ctl{display:inline-block;position:relative;margin-left:16px;margin-top:1px;vertical-align:middle}.ab_button{background-color:#f5f5f5;background-image:linear-gradient(top,#f5f5f5,#f1f1f1);border:1px solid #dcdcdc;border:1px solid rgba(0, 0, 0, 0.1);color:#444}.ab_button{border-radius:2px;cursor:default;font-family:arial,sans-serif;font-size:11px;font-weight:bold;height:27px;line-height:27px;margin:2px 0;min-width:54px;padding:0 8px;text-align:center;transition:all 0.218s,visibility 0s;}.mn-dwn-arw{border-color:#909090 transparent;border-style:solid;border-width:4px 4px 0 4px;width:0;height:0;margin-left:-2px;top:50%;margin-top:-2px;position:absolute}.ab_dropdown{background:#fff;border:1px solid #dcdcdc;border:1px solid rgba(0,0,0,0.2);font-size:13px;padding:0 0 6px;position:absolute;right:0;top:28px;white-space:nowrap;z-index:3;transition:opacity 0.218s;box-shadow:0 2px 4px rgba(0,0,0,0.2)}ul{border:0;margin:0;padding:0}ul{margin:0;padding:0}.ab_dropdownitem{margin:0;padding:0;}ol li{list-style:none}li{line-height:1.2}li{border:0;margin:0;padding:0}li{margin:0;padding:0}.fl{text-decoration:none!important} .auto-style39 { font-size: xx-large; } .auto-style33 { color: #FFFFFF; } .auto-style42 { font-weight: normal; } .auto-style125 { color: #12622D; } .auto-style126 { color: #FF0000; } .auto-style127 { color: #4D0C8E; } .auto-style128 { color: #FF0000; font-size: large; } .auto-style129 { color: #161690; } .auto-style130 { border-style: outset; border-width: 3px; } .auto-style131 { text-align: center; border: 4px outset #808000; } .auto-style132 { border: 8px double #FF0000; padding: 8px; } .auto-style133 { border-style: inset; border-width: 18px; text-align: center; color: #008080; margin-left: 0px; } .auto-style134 { background-color: #1111CC; text-align: center; margin-top: 0px; } .auto-style135 { color: #FFFF00; background-color: #FF9999; } .auto-style136 { color: #FFFF00; } .auto-style137 { color: #0B3CD3; }
-2BReality
-<div class="auto-style5"></div>
-    <div class="auto-style21" style="height: 862px">
-                <a href="http://youtu.be/b_ILDFp5DGA" target="_blank">
-                <div id="layer7" style="position: absolute; width: 332px; height: 46px; z-index: 7; left: 999px; top: 72px; " class="auto-style40">
-                    <form method="get" action="http://www.google.com/search">
-                        <div style="border:1px solid white;padding:4px;width:20em;">
-                            <table style="width: 324px; height: 48px;" align="center">
-                                <tr>
-                                    <td style="height: 26px; width: 406px">
-                                    <input type="text"   name="q" size="25"
-maxlength="255" value="" />        
+[2BRadio](http://www.2breality.com/2BRadio.aspx)  
 
- Mr Selfridge<!-- MSComment="ibutton" fp-style="fp-btn: Border Bottom 2" fp-title="Mr Selfridge" -->
-Please note: All requests, proposals, business plans, applications, ideas, suggestions, comments, feedback, and other materials disclosed, submitted, or offered to 2BReality, using the Site or otherwise, (collectively, "Submissions") are not confidential and will become and remain the property of 2BReality. You agree that 2BReality shall be entitled to use, display, publish, reproduce, modify, transmit, sublicense, translate, create derivative works from, and distribute Submissions in any medium and through any method of distribution, transmission or display for any purpose whatsoever, commercial or otherwise, without compensation to you or anyone else.  Please refer to our Terms of Use and Privacy Policy for more information
-There is only one road to happiness
-TV 2Day
-The Battle of Gettysburg - Part 1 The Battle of Gettysburg - Part 2 The Battle of Gettysburg - Part 3 The Battle of Gettysburg - Part 4 The Battle of Gettysburg - Part 5 The Battle of Gettysburg - Part 6 The Battle of Gettysburg - Part 7
-Fizz Is UP!
-National Beverage Corp
-Tootsie Pops
-2BReality4U
-What do you Think should be in the cloud? Email to: info@2BReality.com
-2breality.com/
-2BRealityPI is a Ready to GO custom built media center installed with OpenElec, XBMC allows you to watch & listen to what you want, when you want it, from anywhere around the world. (It makes yourTV Smarter) 2 week money back guarentee not including shipping/Technical support provided at request info@2breality.com.
-Picture 2Day
- USS Constitution by 2BReality
-What do you Think should be in the cloud?
-The Prince - Blurry Angels (Feat. Emily Fauver & The XX)
-Hope & Healing at
-Hillenglade™
-Needs YOU!
-2BReality
- Amazon <!-- MSComment="ibutton" fp-style="fp-btn: Metal Tab 1" fp-title="Amazon " -->AmeritradeAOL<!-- MSComment="ibutton" fp-style="fp-btn: Metal Tab 1" fp-title="AOL" -->AP.org<!-- MSComment="ibutton" fp-style="fp-btn: Metal Tab 1" fp-title="AP.org" -->Bing<!-- MSComment="ibutton" fp-style="fp-btn: Metal Tab 1" fp-title="Bing" -->Bloomberg<!-- MSComment="ibutton" fp-style="fp-btn: Metal Tab 1" fp-title="Bloomberg" -->CNN<!-- MSComment="ibutton" fp-style="fp-btn: Metal Tab 1" fp-title="CNN" -->Digg<!-- MSComment="ibutton" fp-style="fp-btn: Metal Tab 1" fp-title="Digg" -->EbayFaceBook<!-- MSComment="ibutton" fp-style="fp-btn: Metal Tab 1" fp-title="FaceBook" -->FederalNewsRadio <!-- MSComment="ibutton" fp-style="fp-btn: Metal Tab 1; fp-proportional: 0" fp-title="FederalNewsRadio " -->Google<!-- MSComment="ibutton" fp-style="fp-btn: Metal Tab 1" fp-title="Google" -->GMailGFinance<!-- MSComment="ibutton" fp-style="fp-btn: Metal Tab 1" fp-title="GFinance" -->GNews<!-- MSComment="ibutton" fp-style="fp-btn: Metal Tab 1" fp-title="GNews" -->Guardiannews<!-- MSComment="ibutton" fp-style="fp-btn: Metal Tab 1" fp-title="Guardiannews" -->HotMailInstagramLiveLeak<!-- MSComment="ibutton" fp-style="fp-btn: Metal Tab 1" fp-title="LiveLeak" -->KickStarter<!-- MSComment="ibutton" fp-style="fp-btn: Metal Tab 1" fp-title="KickStarter" -->LifeHacker <!-- MSComment="ibutton" fp-style="fp-btn: Metal Tab 1" fp-title="LifeHacker " -->Linkedin<!-- MSComment="ibutton" fp-style="fp-btn: Metal Tab 1" fp-title="Linkedin" -->MSN<!-- MSComment="ibutton" fp-style="fp-btn: Metal Tab 1" fp-title="MSN" -->NPR<!-- MSComment="ibutton" fp-style="fp-btn: Metal Tab 1" fp-title="NPR" -->NyTimes<!-- MSComment="ibutton" fp-style="fp-btn: Metal Tab 1" fp-title="NyTimes" -->PandoraPayPalPowerball<!-- MSComment="ibutton" fp-style="fp-btn: Metal Tab 2" fp-title="Powerball" -->PinterestRedditRestaurant <!-- MSComment="ibutton" fp-style="fp-btn: Metal Tab 1" fp-title="Restaurant " -->SKYPE<!-- MSComment="ibutton" fp-style="fp-btn: Metal Tab 1" fp-title="SKYPE" -->Twitter<!-- MSComment="ibutton" fp-style="fp-btn: Metal Tab 1" fp-title="Twitter" -->YouTubeUSA Today<!-- MSComment="ibutton" fp-style="fp-btn: Metal Tab 1" fp-title="USA Today" -->Wall Street Journal<!-- MSComment="ibutton" fp-style="fp-btn: Metal Tab 1; fp-proportional: 0" fp-title="Wall Street Journal" -->Washington Post <!-- MSComment="ibutton" fp-style="fp-btn: Metal Tab 1" fp-title="Washington Post " -->Weather<!-- MSComment="ibutton" fp-style="fp-btn: Metal Tab 1" fp-title="Weather" -->Wikipedia<!-- MSComment="ibutton" fp-style="fp-btn: Metal Tab 1" fp-title="Wikipedia" -->Yahoo<!-- MSComment="ibutton" fp-style="fp-btn: Metal Tab 1" fp-title="Yahoo" -->
- 2BReality2<!-- MSComment="ibutton" fp-style="fp-btn: Soft Rectangle 6" fp-title="2BReality2" -->2BReality.blog<!-- MSComment="ibutton" fp-style="fp-btn: Soft Rectangle 6" fp-title="2BReality.blog" -->Craigslist<!-- MSComment="ibutton" fp-style="fp-btn: Soft Rectangle 6" fp-title="Craigslist" -->DocumentaryEBay<!-- MSComment="ibutton" fp-style="fp-btn: Soft Rectangle 6" fp-title="EBay" -->GeekWire<!-- MSComment="ibutton" fp-style="fp-btn: Soft Rectangle 6" fp-title="GeekWire" -->GitHub  <!-- MSComment="ibutton" fp-style="fp-btn: Soft Rectangle 6" fp-title="GitHub " -->GoDaddyGrooveShark<!-- MSComment="ibutton" fp-style="fp-btn: Soft Rectangle 6" fp-title="GrooveShark" -->Groupon<!-- MSComment="ibutton" fp-style="fp-btn: Soft Rectangle 6" fp-title="Groupon" -->Hulu<!-- MSComment="ibutton" fp-style="fp-btn: Soft Rectangle 6" fp-title="Hulu" -->IMDB<!-- MSComment="ibutton" fp-style="fp-btn: Soft Rectangle 6" fp-title="IMDB" -->Improper<!-- MSComment="ibutton" fp-style="fp-btn: Soft Rectangle 6" fp-title="Improper" -->Khan Academy<!-- MSComment="ibutton" fp-style="fp-btn: Soft Rectangle 6" fp-title="Khan Academy" -->Twitter/Navi_xNetflix<!-- MSComment="ibutton" fp-style="fp-btn: Soft Rectangle 6" fp-title="Netflix" -->Opentable<!-- MSComment="ibutton" fp-style="fp-btn: Soft Rectangle 6" fp-title="Opentable" -->ShopperTurnpikeTestTubeTimer<!-- MSComment="ibutton" fp-style="fp-btn: Soft Capsule 2" fp-title="Timer" -->TTTTTTTT<!-- MSComment="ibutton" fp-style="fp-btn: Soft Rectangle 6" fp-title="TTTTTTTT" -->USAJOBS<!-- MSComment="ibutton" fp-style="fp-btn: Soft Rectangle 6" fp-title="USAJOBS" -->Vevo<!-- MSComment="ibutton" fp-style="fp-btn: Soft Rectangle 6" fp-title="Vevo" -->Vimeo<!-- MSComment="ibutton" fp-style="fp-btn: Soft Rectangle 6" fp-title="Vimeo" -->XBMC<!-- MSComment="ibutton" fp-style="fp-btn: Soft Rectangle 6" fp-title="XBMC" -->XBMCHUB<!-- MSComment="ibutton" fp-style="fp-btn: Soft Rectangle 6" fp-title="XBMCHUB" -->Zaba Search<!-- MSComment="ibutton" fp-style="fp-btn: Soft Rectangle 6" fp-title="Zaba Search" -->Zillow
- 2BRealiity22BRealityPi2BRealityPlaces2BRealityTVMy2BRealiity2BRealityNowNewEnglandPicTiny Wonders
- 2BReality Food
- 2BRealityHOME
-                </span> 
-                <div id="layer97" class="auto-style134" style="position: absolute; width: 359px; height: 305px; z-index: 52; left: 19px; top: 870px">
-                    <span class="auto-style73">Movie 2Day</span><span class="auto-style97"><br>
-                    <iframe width="320" height="239" src="//www.youtube.com/embed/XqMlo51U_KQ?list=PLE9A7A313373923E2" frameborder="0" allowfullscreen></iframe><br>
-                    </span>
-                    </div>
-                <div id="layer100" class="auto-style129" style="position: absolute; width: 341px; height: 64px; z-index: 59; left: 401px; top: 853px">
-                    <a href="http://youtu.be/MMdBWWDWRQ8">
-                    http://youtu.be/MMdBWWDWRQ8</a><br>
-                    <a href="https://www.youtube.com/watch?v=PzDhD7wfBJA">
-                    https://www.youtube.com/watch?v=PzDhD7wfBJA</a><br>
-                    https://www.youtube.com/watch?v=qKVNnGtc-nU</div>
-                <div id="layer102" class="auto-style134" style="position: absolute; width: 350px; height: 170px; z-index: 52; left: 23px; top: 1185px">
-                    <span class="auto-style73">Music 2Day</span><span class="auto-style97"><br>
-                    <a href="http://www.pandora.com/rodriguez/cold-fact">
-                    <img id="img199" alt="Crucify-your-mind" fp-style="fp-btn: Simple Circle 1" fp-title="Crucify-your-mind" height="60" onmousedown="FP_swapImg(1,0,/*id*/'img199',/*url*/'Images/Buttons/buttonA30.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img199',/*url*/'Images/Buttons/buttonA31.jpg')" onmouseover="FP_swapImg(1,0,/*id*/'img199',/*url*/'Images/Buttons/buttonA29.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img199',/*url*/'Images/Buttons/buttonA29.jpg')" src="Images/Buttons/buttonA31.jpg" style="border: 0" width="300"></a><a target="_self"><img id="img200" alt="" fp-style="fp-btn: Simple Circle 1" fp-title="" height="60" onmousedown="FP_swapImg(1,0,/*id*/'img200',/*url*/'Images/Buttons/buttonCF1.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img200',/*url*/'Images/Buttons/buttonCD1.jpg')" onmouseover="FP_swapImg(1,0,/*id*/'img200',/*url*/'Images/Buttons/buttonCE1.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img200',/*url*/'Images/Buttons/buttonCE1.jpg')" src="Images/Buttons/buttonCD1.jpg" style="border: 0" width="300"></a></span></div>
-                <div id="layer107" class="auto-style134" style="position: absolute; width: 350px; height: 354px; z-index: 52; left: 1001px; top: 332px">
-                    <span class="auto-style73"><br>2BReality Movie2</span><br>
-                    <iframe width="320" height="239" src="//www.youtube.com/embed/dkA8JR2p_tQ" frameborder="0" allowfullscreen></iframe></div>
-                <div id="layer103" class="auto-style134" style="position: absolute; width: 350px; height: 330px; z-index: 52; left: 24px; top: 1367px">
-                    <span class="auto-style73">Video 2Day</span><span class="auto-style97"><br>
-                    <iframe width="320" height="239" src="//www.youtube.com/embed/CttQ7eIHr-s" frameborder="0" allowfullscreen></iframe></div>
-                <div id="layer104" class="auto-style132" style="position: absolute; width: 100px; height: 100px; z-index: 1; left: 1111px; top: 997px">
-                    <a href="http://bruins.nhl.com/">2</a></div>
-                <div id="layer108" style="position: absolute; width: 399px; height: 344px; z-index: 2; left: 24px; top: 1801px">
-                    <img alt="" height="343" src="Images/Buttons/Government%20Reality.jpg" width="400"></div>
-                </body>
+
+[B Company 242nd Engineers Putnam Armory](https://www.facebook.com/groups/1550689765165432/)
+
+
+[Wounded Warrior Project Non-Profit Organization](https://www.facebook.com/wwpinc.fans?fref=nf)
+
+
+[VeteransAffairs](https://www.facebook.com/VeteransAffairs)
+
+
+[VA.GOV](http://www.va.gov/)
+
+[Project Titan PR Film](http://youtu.be/OHmn-hpnTSQ)
