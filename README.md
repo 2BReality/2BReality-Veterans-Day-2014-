@@ -12,14 +12,12 @@ Welcome to 2BReality Veterans Day 2014!
 ##### 2BReality 5 
 [Restrepo - Afghanistan War](http://youtu.be/rj_1W_968VQ)
 # 2BReality 6
-[2BReality 2BRadio](http://www.2breality.com/2BRadio.aspx) 
-## 2BReality 7 
 [B Company 242nd Engineers Putnam Armory](https://www.facebook.com/groups/1550689765165432/)
-### 2BReality 8
+### 2BReality 7
 [Wounded Warrior Project Non-Profit Organization](https://www.facebook.com/wwpinc.fans?fref=nf)
-#### 2BReality 9
+#### 2BReality 8
 [VeteransAffairs](https://www.facebook.com/VeteransAffairs)
-##### 2BReality 10 
+##### 2BReality 9 
 [VA.GOV](http://www.va.gov/)
-# 2BReality 11
+# 2BReality 10
 [Nissan Project Titan Short Film](http://youtu.be/LprTAiiByMM)
